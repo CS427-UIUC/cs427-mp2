@@ -4,4 +4,4 @@ This is the second machine problem for CS 427 Fall 2024. Since you are now famil
 practice program analysis on the Jsoup project!
 
 ## Instructions
-Please see the MP instruction file here for instructions: #TODO
+For details on the machine problem, please take a look at the instructions document on Coursera.
